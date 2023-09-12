@@ -1,3 +1,3 @@
 # TiltView
 
-TiltView 혼자 만들어 봤습니다.
+TiltView를 이용해서 그린 그림
